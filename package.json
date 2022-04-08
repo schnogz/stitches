@@ -3,6 +3,7 @@
   "name": "stitches",
   "type": "module",
   "license": "MIT",
+  "version": "1.2.7",
   "contributors": [
     "Pedro Duarte <pedro@modulz.app>",
     "Abdulhadi Alhallak <abdulhadi@modulz.app>",
